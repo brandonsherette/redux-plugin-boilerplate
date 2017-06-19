@@ -1,6 +1,6 @@
 {
   "name": "redux-plugin-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redux Plugin Boilerplate",
   "main": "dist/redux-plugin-boilerplate.js",
   "scripts": {
@@ -16,12 +16,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10",
-    "react": "^15.4.2",
-    "react-addons-css-transition-group": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.5",
-    "redux": "^3.6.0",
-    "redux-logger": "^3.0.6"
+    "react-addons-css-transition-group": "^15.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
@@ -34,6 +29,11 @@
     "file-loader": "^0.10.0",
     "gulp": "^3.9.1",
     "node-sass": "^4.5.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.5",
+    "redux": "^3.6.0",
+    "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
     "resolve-url-loader": "^2.0.0",
     "sass-loader": "^6.0.1",

@@ -3,5 +3,8 @@
 ## Description
 Boilerplate for creating react redux plugins/extensions.
 ## Versions
+**v0.0.2**
+- Updated dependency list.
+
 **v0.0.1**
 - Initial Setup
