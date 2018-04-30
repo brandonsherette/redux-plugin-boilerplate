@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import PluginName from './plugin-name/index';
+import { PluginName } from './plugin-name/';
 
 class AppComponent extends Component {
   render() {
-    const { showGreeting } = this.props;
-
     return (
       <div className="app-component">
         <div className="app-header">
